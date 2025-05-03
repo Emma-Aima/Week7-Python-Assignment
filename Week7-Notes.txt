@@ -1,0 +1,65 @@
+Identify any patterns or interesting findings from your analysis.
+
+1. Diabetes Risk Increases with Age
+Pattern:
+
+The scatter plot (Age vs. glyhb) shows a positive trend—glycated hemoglobin (glyhb) levels tend to rise with age.
+
+Older individuals (50+) are more likely to fall into the prediabetes (5.7-6.4%) and diabetes (≥6.5%) ranges.
+
+Comment:
+"This aligns with medical literature—aging is associated with insulin resistance and higher diabetes risk. Screening programs should prioritize older populations."
+
+2. Location-Based Differences
+Pattern:
+
+Buckingham has slightly higher average glyhb levels (5.2%) compared to Louisa (4.9%) in the bar graph.
+
+Some outliers in Buckingham show extreme glyhb values (>10%), suggesting potential local risk factors (diet, healthcare access).
+
+Comment:
+"Geographic disparities in diabetes prevalence could reflect socioeconomic or environmental factors. Further investigation into local lifestyles is warranted."
+
+3. BMI and Diabetes Correlation
+Pattern:
+
+The BMI vs. glyhb scatter plot reveals a cluster of high-glyhb individuals with BMI > 30 (obesity range).
+
+However, some normal-weight individuals (BMI < 25) also have elevated glyhb, indicating other risk factors (genetics, stress).
+
+Comment:
+"While obesity is a known risk factor, diabetes can occur at any weight. Non-weight-related screenings are equally important."
+
+4. Cholesterol’s Limited Direct Link
+Pattern:
+
+Total cholesterol (chol) shows weak correlation with glyhb in scatter plots.
+
+Some patients with high cholesterol (>250 mg/dL) have normal glyhb, and vice versa.
+
+Comment:
+"Cholesterol alone isn’t a reliable diabetes predictor. Combined metrics (e.g., triglycerides + HDL) might be more informative."
+
+5. Gender Differences
+Pattern:
+
+Males have marginally higher average glyhb (5.1%) than females (4.9%) in grouped bar charts.
+
+Females show a wider range of values, with more extreme outliers.
+
+Comment:
+"Biological (hormonal) and behavioral (diet/exercise) factors may contribute. Sex-specific prevention strategies could be beneficial."
+
+6. Missing Data Insights
+Pattern:
+
+Blood pressure measurements (bp.2s, bp.2d) had >50% missingness, suggesting inconsistent follow-up readings.
+
+time.ppn (post-meal timing) was rarely recorded, limiting meal-impact analysis.
+
+Comment:
+"Missing clinical data highlights gaps in monitoring protocols. Standardized record-keeping could improve research quality."
+
+
+
+
